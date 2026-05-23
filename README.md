@@ -23,7 +23,7 @@ A centralized digital platform for colleges — managing students, attendance, e
 | 👤 Member |
 |:----------:|
 | Vishwajit Gadale |
-| Akash Vishwakarma |
+| Aakash Vishwakarma |
 | Amar Bharati |
 
 </div>
