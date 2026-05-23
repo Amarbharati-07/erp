@@ -50,7 +50,7 @@ A full-stack web application built with **Spring Boot + Thymeleaf + MySQL** that
 - Announcements to students
 
 ### 🤖 Chatbot
-- AI-powered campus chatbot (integrated in all dashboards)
+- AI-powered campus chatbot (available in Student & Teacher dashboards only)
 
 ---
 
