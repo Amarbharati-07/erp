@@ -143,7 +143,7 @@ scms-project/
 
 ### 1. Clone
 ```bash
-git clone https://github.com/your-username/scms-project.git
+https://github.com/Amarbharati-07/erp
 cd scms-project
 ```
 
